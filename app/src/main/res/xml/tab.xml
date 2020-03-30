@@ -1,0 +1,36 @@
+<tabs>
+    <tab
+        id="@+id/home"
+        icon="@drawable/baseline_home_black_24"
+        title="Accueil"
+        activeColor="@color/colorPrimaryDark"
+        badgeBackgroundColor="#FF0000"
+        badgeHidesWhenActive="true"
+        inActiveColor="@color/unselected_txt"
+        />
+
+    <tab
+        id="@+id/more"
+        icon="@drawable/ic_more"
+        title="Autres Infos"
+        activeColor="@color/colorPrimaryDark"
+        inActiveColor="@color/unselected_txt"
+        />
+
+    <tab
+        id="@+id/dons"
+        icon="@drawable/baseline_accessibility_new_black_24"
+        title="Faire un don"
+        activeColor="@color/colorPrimaryDark"
+        inActiveColor="@color/unselected_txt"
+        />
+
+    <tab
+        id="@+id/about"
+        icon="@drawable/baseline_info_black_24"
+        title="A Propos"
+        activeColor="@color/colorPrimaryDark"
+        inActiveColor="@color/unselected_txt"
+        />
+
+</tabs>

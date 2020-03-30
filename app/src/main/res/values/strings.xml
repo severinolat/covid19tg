@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">COVID-19TG</string>
+    <string name="agree">Une initiative du CARESP TOGO</string>
+    <string name="quel_masque_utiliser">Quel masque utiliser</string>
+    <string name="mesures_de_pr_cautions">Mesures de précautions</string>
+    <string name="comment_gu_rit_on">Comment guérit-on?</string>
+    <string name="la_distanciation_sociale">La distanciation sociale</string>
+    <string name="le_virus">Le virus</string>
+    <string name="traitement_et_pr_vention"> Prévention et Traitement</string>
+
+    <string name="definition_text">
+
+        Les coronavirus (CoV) forment une grande famille de virus qui provoquent des maladies allant du simple rhume à des maladies plus graves telles que le syndrome respiratoire du Moyen-Orient (MERS) et le syndrome respiratoire aigu sévère (SRAS). \n \n
+
+        Le COVID-19 est la maladie infectieuse causée par le dernier coronavirus qui a été découverte en 2019. \n \n En effet, ce virus était inconnu avant l\'apparition de l\'épidémie à Wuhan (Chine) en décembre 2019. \n \n
+        L\'infection COVID-19 reste bénigne dans 80% des cas, dans 14% des cas elle est grave et dans 5% des cas elle est très grave et peut nécessiter une réanimation. \n
+
+    </string>
+
+
+    <string name="signes_text">
+        La maladie se manifeste par une infection modérée à sévère des voies respiratoires avec une fièvre, une toux, des douleurs musculaires et de difficultés respiratoires. \n \n Les personnes âgées et les personnes souffrant de maladies chroniques (surtout diabète et insuffisance cardiaque) semblent plus vulnérables et exposées au risque de complications.\n Cependant, tout le monde peut attraper la maladie\n \n
+
+
+        La période d\'incubation de l\'infection COVID-19, période entre la contamination et l\'apparition des premiers symptômes, est de 2 à 14 jours. Mais il a été rapporté dans certains cas des périodes d’incubation de plus de 21 jours.\n
+
+
+    </string>
+
+    <string name="mode_text">
+     On peut attraper le Covid-19 en respirant les gouttelettes provenant d\'une personne malade lorsque celle-ci tousse ou éternue. \n \n   Ces gouttelettes qui s\'échappent lorsque la personne malade tousse ou éternue peuvent se déposer sur des  objets (téléphone, clé, ballon, verre, poignées de porte...) ou des surfaces (tables, murs...). \n \n Ainsi, lorsque que vous touchez ces objets ou surfaces souillés et que vous vous touchez le nez, la bouche ou les yeux avec les mains , vous pouvez attraper la maladie. \n \n Le virus se retrouve également dans les selles.
+
+    </string>
+
+    <string name="personnes_text">
+         Les personnes vulnérables sont les personnes de plus de 65 ans ou celles qui souffrent déjà d’une des maladies listées ci-après. \n \n Les maladies telles que :\n
+
+            "• Le diabète \n"
+            "• Les maladies cardio-vasculaires \n"
+            "• Les maladies chroniques des voies respiratoires \n"
+            "• Le cancer \n"
+            "• Une faiblesse immunitaire ou à un traitement, due à une maladie ou à une thérapie \n\n"
+
+        "Les personnels de santé ont également un risque élevé d'attraper la maladie s'ils ne se protègent pas ou si les mesures d'hygiène de base de lavage des mains ne sont pas effectuées. \n \n Mais tout le monde peut attraper le COVID-19."
+
+
+
+
+    </string>
+
+
+
+
+    <string name="traitement_text">
+        Un traitement spécifique n\'existe pas à ce jour, bien que les recherches soient en cours. \n \n Le traitement est donc essentiellement symptomatique, c\'est-à-dire qu\'il s\'apparente à celui appliqué pour soigner une toux, pour remédier à des problèmes respiratoires ou pour faire baisser la température. \n \n
+
+
+        <b><font color="#BD2201">Il est fortement déconseillé de prendre des anti-inflammatoires pour se traiter.</font></b>\n \n
+
+
+        De façon générale, si vous avez de la fièvre, il est recommandé de prendre du paracétamol. \n \n
+
+        Les autres médicaments en cours d’évaluation mais non encore recommandés pour le traitement sont entre autres le favipiravir, le lopinavir-ritonavir,  l’hydroxychloroquine et le remdésivir. \n \n L’usage en automédication (non prescrit par un médecin) de ces produits pour prévenir ou traiter l’infection au coronavirus est fortement déconseillé, car il existe un risque élevé d’intoxication. \n
+
+
+    </string>
+
+    <string name="sepro_text">
+
+        "Il y a lieu d\'observer les mêmes consignes de précaution que pour toute autre infection respiratoire.  \n\n"
+            "1. Le plus important : lavez-vous régulièrement et correctement les mains.  \n \n"
+            "2. Vous toussez ou éternuez ? Faites-le dans un mouchoir en papier ou dans le pli du coude. \n \n"
+            "3. Jetez le mouchoir dans une poubelle munie d\'un couvercle. \n \n"
+            "4. Evitez de serrer des mains ou de faire la bise. \n \n"
+            "5. Evitez les contacts proches avec les personnes malades ou potentiellement malades en adoptant des mesures de distanciation sociale (garder une distance de 2 mètres au moins). \n \n"
+            "6. Si possible, restez à la maison ! \n \n"
+            "7. Evitez autant que possible de toucher votre visage avec vos mains. \n \n"
+            "8. Auto-isolement ou auto-quarantaine si vous présentez des signes ou si vous avez été en contact avec une personne qui présente des signes. \n\n"
+
+        "L’isolement s’applique aux personnes qui ont une infection confirmée à SARS-COV-2. Cette mesure vise à éviter que la personne infectée, qui est contagieuse, transmette l’infection à son entourage. \n\n"
+
+
+
+
+       "L’auto-isolement s’applique aux personnes qui ont des symptômes de maladie compatibles avec le COVID-19 mais dont l’infection n’est pas confirmée. \n\n"
+
+        "Elles doivent rester chez elles pendant 7 jours à partir du début des symptômes.\n\n"
+
+    "L’auto-quarantaine s’applique aux personnes qui ont eu un contact intime ou qui vivent sous le même toit qu’une personne dont l’infection est confirmée.\n\n"
+
+    "Elles doivent rester chez elles pendant 7 jours à compter du diagnostic du cas confirmé. \n\n"
+
+    </string>
+
+    <string name="masque_text">
+    "Le port du masque de façon préventive n\'est pas préconisé par l\'Organisation mondiale de la Santé (OMS) comme moyen pour éviter une contamination avec le virus COVID-19.\n\n"
+
+    "L'OMS recommande le port du masque pour les personnes  malades pour ne pas contaminer les autres. Le port du masque est également recommandé pour le personnel de santé qui présente des signes respiratoires ou qui effectuent des soins aux malades du Covid-19.\n\n"
+
+        "L\'utilisation de masques spéciaux (FFP2) pour prévenir l\'infection au coronavirus n\'a de sens que dans les hôpitaux où sont soignés les patients contaminés au coronavirus et pour l\'examen des patients.\n\n"
+
+    </string>
+
+    <string name="distantiation_text">
+    "Pratiquer la distanciation sociale, c’est modifier ses habitudes quotidiennes afin de réduire au minimum les contacts étroits avec d’autres personnes, ce qui comprend :\n\n"
+
+        "• Éviter les endroits très fréquentés et les rassemblements non essentiels ;\n \n"
+        "• Éviter les salutations d’usage, comme les poignées de main ;\n \n"
+        "• Limiter les contacts avec les personnes présentant un risque plus élevé (aînés, personnes en mauvaise santé, etc.) ; \n \n"
+        "• Maintenir autant que possible une distance d’au moins deux longueurs de bras (environ 2 mètres) avec les autres. \n \n"
+
+    </string>
+
+
+
+    <string name="prevention_text">
+
+        "Il y a lieu d\'observer les mêmes consignes de précaution que pour toute autre infection respiratoire.  \n\n"
+            "1. Le plus important : lavez-vous régulièrement et correctement les mains   \n"
+            "2. Vous toussez ou éternuez ? Faites-le dans un mouchoir en papier ou dans le pli du coude \n"
+            "3. Jetez le mouchoir dans une poubelle munie d\'un couvercle \n"
+            "4. Evitez de serrer des mains ou de faire la bise \n"
+            "5. Evitez les contacts proches avec les personnes malades ou potentiellement malades en adoptant des mesures de distanciation sociale (garder une distance de 2 mètres au moins). \n"
+            "6. Si possible, restez à la maison ! \n"
+            "7. Evitez autant que possible de toucher votre visage avec vos mains \n"
+            "8. Auto-isolement ou auto-quarantaine si vous présentez des signes ou si vous avez été en contact avec une personne qui présente des signes \n\n"
+
+        "L’isolement s’applique aux personnes qui ont une infection confirmée à SARS-COV-2. Cette mesure vise à éviter que la personne infectée, qui est contagieuse, transmette l’infection à son entourage. \n\n"
+
+
+
+
+       "L’auto-isolement s’applique aux personnes qui ont des symptômes de maladie compatibles avec le COVID-19 mais dont l’infection n’est pas confirmée. \n\n"
+
+        "Elles doivent rester chez elles pendant 7 jours à partir du début des symptômes.\n\n"
+
+    "L’auto-quarantaine s’applique aux personnes qui ont eu un contact intime ou qui vivent sous le même toit qu’une personne dont l’infection est confirmée.\n\n"
+
+    "Elles doivent rester chez elles pendant 7 jours à compter du diagnostic du cas confirmé. \n\n"
+
+
+    <b>PORTER UN MASQUE EST-CE UTILE ?</b> \n
+
+    "Le port du masque de façon préventive n\'est pas préconisé par l\'Organisation mondiale de la Santé (OMS) comme moyen pour éviter une contamination avec le virus COVID-19.\n\n"
+
+    "L’OMS recommande au personnel de santé qui présente lui-même des symptômes respiratoires à porter un masque chirurgical afin de ne pas contaminer les autres.\n\n"
+
+        "L\'utilisation de masques spéciaux (FFP2) pour prévenir l\'infection au coronavirus n\'a de sens que dans les hôpitaux où sont soignés les patients contaminés au coronavirus et pour l\'examen des patients.\n\n"
+
+        "<b>EN QUOI CONSISTENT LES MESURES DE DISTANCIATION SOCIALE ?</b>\n
+
+    "Pratiquer la distanciation sociale, c’est modifier ses habitudes quotidiennes afin de réduire au minimum les contacts étroits avec d’autres personnes, ce qui comprend :\n\n"
+
+        "• Éviter les endroits très fréquentés et les rassemblements non essentiels ;\n"
+        "• Éviter les salutations d’usage, comme les poignées de main ;\n"
+        "• Limiter les contacts avec les personnes présentant un risque plus élevé (aînés, personnes en mauvaise santé, etc.) ;\n"
+        "• Maintenir autant que possible une distance d’au moins deux longueurs de bras (environ 2 mètres) avec les autres.\n"
+
+    </string>
+
+</resources>

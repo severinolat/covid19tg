@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/app_name"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textSize="25.0sp"/>
+        <TextView
+            android:id="@+id/app_version"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="version"
+            android:fontFamily="sans-serif-light"
+            android:layout_marginBottom="10dp"
+            android:textSize="20.0sp"/>
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginBottom="50dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:src="@drawable/ic_masque"/>
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginBottom="50dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:src="@drawable/caresp"/>
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/layoutPartners"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottom_pan"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/rem"/>
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/zopi"/>
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/aemp"/>
+        <ImageView
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/synphot"/>
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/efma"/>
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/cip"/>
+        <ImageView
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/aephat"/>
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/fac"/>
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/jojo"/>
+
+
+
+    </LinearLayout>
+
+
+    <View
+        android:id="@+id/separator"
+        android:background="#ffcccccc"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0dip"
+        android:layout_marginLeft="20.0dip"
+        android:layout_marginRight="20.0dip"
+        android:layout_above="@+id/layoutPartners" />
+    <LinearLayout
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:id="@+id/bottom_pan"
+        android:paddingTop="10.0dip"
+        android:paddingBottom="10.0dip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:textSize="16.0sp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:text="© 2020 CARESP." />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_close_black_24"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="primary_light">#B2DFDB</color>
+    <color name="colorAccent">#009688</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="txt_color">#141a22</color>
+    <color name="light_gray">#6e7f8d</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#dd5048</color>
+
+    <color name="selected_txt">#dd5048</color>
+    <color name="unselected_txt">#b9bfc8</color>
+
+
+
+    <!--Category Type Tab Color-->
+    <color name="Indicator_tabTextColor">#DCE1EA</color>
+    <color name="Indicator_tabSelectedTextColor">#e92324</color>
+    <color name="tabindiacator_background">#fff</color>
+    <color name="tabIndicator_color">#38bffe</color>
+</resources>
